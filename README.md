@@ -3,7 +3,7 @@
 This project visualizes global temperature anomalies from 1880 to 2023 using data from NASA GISS. The dashboard is created using Datawrapper, a no-code data visualization platform.
 
 ## Dashboard Preview
-![Climate Dashboard](Climate Dashboard/bFgWO-global-temperature-anomalies-1880-present- (1).png)
+![Climate Dashboard](https://github.com/Ganga-Rajesh/climate-risk-dashboard/blob/main/bFgWO-global-temperature-anomalies-1880-present-%20(1).png)
 
 ## View Live
 [Click here to view the dashboard](https://www.datawrapper.de/_/bFgWO/)
